@@ -1,6 +1,6 @@
 # Deis controller requirements
 #
-Django==1.6.11
+Django==2.2.18
 django-cors-headers==1.0.0
 # required for south migrations
 django-fsm==2.2.0
